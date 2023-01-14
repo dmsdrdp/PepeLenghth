@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\PepeLenghth.dll</Assembly>
+		<AddInId>4F296095-ADB7-466D-BCC8-AEC6381AF938</AddInId>
+		<FullClassName>PepeLenghth.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Длина выбранных труб</Text>
+	</AddIn>
+</RevitAddIns>
